@@ -12,7 +12,7 @@
         android:name="com.iesvirgendelcarmen.interfaces.dam.fragment10.Fragmento1"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_weight="2"/>
+        android:layout_weight="5"/>
     <FrameLayout
         android:id="@+id/frame_contenedor"
         android:layout_width="match_parent"
